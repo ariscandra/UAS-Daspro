@@ -72,7 +72,8 @@ Data disimpan dalam format JSON sehingga tetap aman dan tidak hilang meskipun pr
 Program *KopikirSendiri* memberikan pengalaman memesan kopi ala cafe di rumah dengan fitur yang menarik seperti rotasi menu, sistem poin, dan validasi pembayaran. Aplikasi ini cocok untuk pelanggan yang ingin menikmati kopi berkualitas kapanpun dan dimanapun.
 
 ## 🖥️ Penjelasan Output
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zU1XT0V_KWg?si=xUkwjhVAkzIhYPV9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Watch the video](https://github.com/user-attachments/assets/b34d2278-96b5-42ff-acab-044cc3818443)](https://youtu.be/zU1XT0V_KWg?si=dpLqdxWcvcxI2Tkl)
 
 <p align="justify">Output dari Program secara garis besar sudah saya jelaskan dalam video youtube yang bisa ditonton di atas.</p>
 
