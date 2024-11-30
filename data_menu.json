@@ -1,0 +1,199 @@
+{
+    "Kategori": [
+        {
+            "Nama Kategori": "Pagi",
+            "Produk": [
+                {
+                    "ID": 1,
+                    "Nama Produk": "Espresso",
+                    "Harga Emoney": 25000,
+                    "Harga Poin": 25
+                },
+                {
+                    "ID": 2,
+                    "Nama Produk": "Americano",
+                    "Harga Emoney": 30000,
+                    "Harga Poin": 30
+                },
+                {
+                    "ID": 3,
+                    "Nama Produk": "Cappuccino",
+                    "Harga Emoney": 35000,
+                    "Harga Poin": 35
+                },
+                {
+                    "ID": 4,
+                    "Nama Produk": "Latte",
+                    "Harga Emoney": 40000,
+                    "Harga Poin": 40
+                },
+                {
+                    "ID": 5,
+                    "Nama Produk": "Flat White",
+                    "Harga Emoney": 38000,
+                    "Harga Poin": 38
+                },
+                {
+                    "ID": 6,
+                    "Nama Produk": "Caramel Macchiato",
+                    "Harga Emoney": 45000,
+                    "Harga Poin": 45
+                },
+                {
+                    "ID": 7,
+                    "Nama Produk": "Mocha",
+                    "Harga Emoney": 42000,
+                    "Harga Poin": 42
+                },
+                {
+                    "ID": 8,
+                    "Nama Produk": "Hazelnut Latte",
+                    "Harga Emoney": 47000,
+                    "Harga Poin": 47
+                },
+                {
+                    "ID": 9,
+                    "Nama Produk": "Vanilla Latte",
+                    "Harga Emoney": 45000,
+                    "Harga Poin": 45
+                },
+                {
+                    "ID": 10,
+                    "Nama Produk": "Affogato",
+                    "Harga Emoney": 50000,
+                    "Harga Poin": 50
+                }
+            ]
+        },
+        {
+            "Nama Kategori": "Siang",
+            "Produk": [
+                {
+                    "ID": 1,
+                    "Nama Produk": "Cold Brew",
+                    "Harga Emoney": 30000,
+                    "Harga Poin": 30
+                },
+                {
+                    "ID": 2,
+                    "Nama Produk": "Iced Americano",
+                    "Harga Emoney": 28000,
+                    "Harga Poin": 28
+                },
+                {
+                    "ID": 3,
+                    "Nama Produk": "Iced Latte",
+                    "Harga Emoney": 35000,
+                    "Harga Poin": 35
+                },
+                {
+                    "ID": 4,
+                    "Nama Produk": "Iced Mocha",
+                    "Harga Emoney": 40000,
+                    "Harga Poin": 40
+                },
+                {
+                    "ID": 5,
+                    "Nama Produk": "Iced Caramel Macchiato",
+                    "Harga Emoney": 45000,
+                    "Harga Poin": 45
+                },
+                {
+                    "ID": 6,
+                    "Nama Produk": "Vanilla Sweet Cream Cold Brew",
+                    "Harga Emoney": 52000,
+                    "Harga Poin": 52
+                },
+                {
+                    "ID": 7,
+                    "Nama Produk": "Shaken Espresso",
+                    "Harga Emoney": 48000,
+                    "Harga Poin": 48
+                },
+                {
+                    "ID": 8,
+                    "Nama Produk": "Cold Foam Cappuccino",
+                    "Harga Emoney": 46000,
+                    "Harga Poin": 46
+                },
+                {
+                    "ID": 9,
+                    "Nama Produk": "Iced Chocolate",
+                    "Harga Emoney": 38000,
+                    "Harga Poin": 38
+                },
+                {
+                    "ID": 10,
+                    "Nama Produk": "Iced Matcha Latte",
+                    "Harga Emoney": 40000,
+                    "Harga Poin": 40
+                }
+            ]
+        },
+        {
+            "Nama Kategori": "Malam",
+            "Produk": [
+                {
+                    "ID": 1,
+                    "Nama Produk": "Hot Chocolate",
+                    "Harga Emoney": 35000,
+                    "Harga Poin": 35
+                },
+                {
+                    "ID": 2,
+                    "Nama Produk": "Chai Tea Latte",
+                    "Harga Emoney": 38000,
+                    "Harga Poin": 38
+                },
+                {
+                    "ID": 3,
+                    "Nama Produk": "Matcha Latte",
+                    "Harga Emoney": 40000,
+                    "Harga Poin": 40
+                },
+                {
+                    "ID": 4,
+                    "Nama Produk": "Peppermint Mocha",
+                    "Harga Emoney": 45000,
+                    "Harga Poin": 45
+                },
+                {
+                    "ID": 5,
+                    "Nama Produk": "Hot Caramel Macchiato",
+                    "Harga Emoney": 46000,
+                    "Harga Poin": 46
+                },
+                {
+                    "ID": 6,
+                    "Nama Produk": "Pumpkin Spice Latte",
+                    "Harga Emoney": 47000,
+                    "Harga Poin": 47
+                },
+                {
+                    "ID": 7,
+                    "Nama Produk": "Honey Almond Flat White",
+                    "Harga Emoney": 48000,
+                    "Harga Poin": 48
+                },
+                {
+                    "ID": 8,
+                    "Nama Produk": "Irish Cream Cold Brew",
+                    "Harga Emoney": 50000,
+                    "Harga Poin": 50
+                },
+                {
+                    "ID": 9,
+                    "Nama Produk": "Toasted White Mocha",
+                    "Harga Emoney": 52000,
+                    "Harga Poin": 52
+                },
+                {
+                    "ID": 10,
+                    "Nama Produk": "Gingerbread Latte",
+                    "Harga Emoney": 54000,
+                    "Harga Poin": 54
+                }
+            ]
+        }
+    ]
+}

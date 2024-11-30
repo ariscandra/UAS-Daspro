@@ -1,0 +1,50 @@
+[
+    {
+        "Username": "testvip",
+        "Password": "testvip123",
+        "Tingkat": "elite",
+        "Emoney": 42250.0,
+        "Poin": 50,
+        "Voucher": [
+            {
+                "Kode": "Kopikir5",
+                "Diskon": 5,
+                "Status": "sudah"
+            },
+            {
+                "Kode": "Kopikir15",
+                "Diskon": 15,
+                "Status": "belum"
+            },
+            {
+                "Kode": "Kopikir10",
+                "Diskon": 10,
+                "Status": "sudah"
+            }
+        ]
+    },
+    {
+        "Username": "test1234",
+        "Password": "test1234",
+        "Tingkat": "elite",
+        "Emoney": 0,
+        "Poin": 550,
+        "Voucher": [
+            {
+                "Kode": "Kopikir5",
+                "Diskon": 5,
+                "Status": "belum"
+            },
+            {
+                "Kode": "Kopikir15",
+                "Diskon": 15,
+                "Status": "belum"
+            },
+            {
+                "Kode": "Kopikir10",
+                "Diskon": 10,
+                "Status": "belum"
+            }
+        ]
+    }
+]
