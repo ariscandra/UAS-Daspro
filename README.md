@@ -1,8 +1,8 @@
 <a name="top"></a>
 <img src="https://github.com/user-attachments/assets/3d8e411e-79b1-4cc7-b555-01a8517454ca" alt="" width="100%">
 
-![Forks](https://img.shields.io/github/forks/PA-DasPro-C-Kelompok-3/PA-DasPro-C-Kelompok-3.svg)
-![Stars](https://img.shields.io/github/stars/PA-DasPro-C-Kelompok-3/PA-DasPro-C-Kelompok-3.svg?style=social&label=Stars)
+![Forks](https://img.shields.io/github/forks/ariscandra/UAS-Daspro.svg)
+![Stars](https://img.shields.io/github/stars/ariscandra/UAS-Daspro.svg?style=social&label=Stars)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 ![Kopikir Sendiri | Aris](https://img.shields.io/badge/☕%20KopikirSendiri%20%20%7C%20Aris%20-000000?style=flat&logoColor=white&color=brown)
